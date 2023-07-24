@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poojithathimegowda
 - 👀 I’m interested in ...Coding, cooking , petting
-- 🌱 I’m currently learning  C#, .net development 
+- 🌱 I’m currently learning  C#, .net development , Web development , 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
