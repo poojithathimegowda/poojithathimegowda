@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @poojithathimegowda
 - 👀 I’m interested in ...Coding, cooking , petting
-- 🌱 I’m currently learning  C#, .net development , Web development , 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning  C#, .net development , Web development 
+- 📫 How to reach me ...poojithagowda98@gmail.com
 
 <!---
 poojithathimegowda/poojithathimegowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
