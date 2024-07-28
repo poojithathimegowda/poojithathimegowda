@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @poojithaThimegowda
+- 👋 Hi, I’m @PoojithaThimegowda
 - 👀 I’m interested in ...Coding, cooking , petting , travelling
-- 🌱 I’m currently learning  C#, .net development , Web development ,SQL
+- 🌱 I’m currently learning  C#, .net development , Web development ,SQL, German
 - 📫 How to reach me ...poojithagowda98@gmail.com ....  in/poojitha-thimegowda-699a06277
 
 <!---
