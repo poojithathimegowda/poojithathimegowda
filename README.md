@@ -14,34 +14,16 @@ RESTful APIs, OpenAPI/Swagger, Web Services
 
 🛠️ Technologies & Skills:
 
-Languages:
-C#, JavaScript, SQL
-
-Frameworks:
-ASP.NET MVC, Entity Framework, WPF
-
-Tools: 
-Git, Postman, Google Tag Manager, Google Analytics
-
-CMS Platforms: 
-WordPress, Shopify, Wix, Magento
-
-APIs:
-RESTful, Web API, JSON
-
-Databases:
-SQL Server, MySQL, SQLite
-
-Version Control:
-Git, GitHub
+Languages:C#, JavaScript, SQL
+Frameworks:ASP.NET MVC, Entity Framework, WPF
+Tools: Git, Postman, Google Tag Manager, Google Analytics
+CMS Platforms: WordPress, Shopify, Wix, Magento
+APIs:RESTful, Web API, JSON
+Databases:SQL Server, MySQL, SQLite
+Version Control:Git, GitHub
 
 📫 How to Reach Me:
 
-Email:
-poojithagowda98@gmail.com
-
-LinkedIn: 
-Poojitha Thimegowda
-
-GitHub: 
-poojithathimegowda
+Email:poojithagowda98@gmail.com
+LinkedIn: Poojitha Thimegowda
+GitHub: poojithathimegowda
