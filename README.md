@@ -1,9 +1,25 @@
 - 👋 Hi, I’m @PoojithaThimegowda
-- 👀 I’m interested in ...Coding, cooking , petting , travelling
-- 🌱 I’m currently learning  C#, .net development , Web development ,WPF ,SQL
-- 📫 How to reach me ...poojithagowda98@gmail.com ....  in/poojitha-thimegowda-699a06277
+👀 About Me:
+I’m a Junior Developer skilled in C#, HTML, CSS, JavaScript, Git, and SQL, with experience building efficient web solutions and optimizing platforms like WordPress, Shopify, and Wix. My background in digital marketing gives me an edge in user engagement and analytics. Currently, I’m focused on growing as a full-stack .NET developer.
 
-<!---
-poojithathimegowda/poojithathimegowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 What I’m Learning:
+C# ASP.NET (Core MVC & MVC 5)
+Web Development (HTML, CSS, JavaScript)
+SQL and Relational Databases
+WPF, MVVM, XAML
+Azure Cloud Integration
+RESTful APIs, OpenAPI/Swagger, Web Services
+
+🛠️ Technologies & Skills:
+Languages: C#, JavaScript, SQL
+Frameworks: ASP.NET MVC, Entity Framework, WPF
+Tools: Git, Postman, Google Tag Manager, Google Analytics
+CMS Platforms: WordPress, Shopify, Wix, Magento
+APIs: RESTful, Web API, JSON
+Databases: SQL Server, MySQL, SQLite
+Version Control: Git, GitHub
+
+📫 How to Reach Me:
+Email: poojithagowda98@gmail.com
+LinkedIn: Poojitha Thimegowda
+GitHub: poojithathimegowda
