@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Poojitha Thimegowda (@PoojithaThimegowda)
+# 👋 Hi, I’m Poojitha Thimegowda (@poojithathimegowda)
 
 ### 👀 About Me:
 I’m a Junior Developer skilled in C#, HTML, CSS, JavaScript, Git, and SQL, with experience building efficient web solutions and optimizing platforms like WordPress, Shopify, and Wix. My background in digital marketing gives me an edge in user engagement and analytics. Currently, I’m focused on growing as a full-stack .NET developer.
