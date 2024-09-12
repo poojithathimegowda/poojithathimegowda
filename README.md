@@ -15,19 +15,13 @@ RESTful APIs, OpenAPI/Swagger, Web Services
 
 🛠️ Technologies & Skills:
 
-Languages:C#, JavaScript, SQL
-
-Frameworks:ASP.NET MVC, Entity Framework, WPF
-
-Tools: Git, Postman, Google Tag Manager, Google Analytics
-
-CMS Platforms: WordPress, Shopify, Wix, Magento
-
-APIs:RESTful, Web API, JSON
-
-Databases:SQL Server, MySQL, SQLite
-
-Version Control:Git, GitHub
+Languages:  C#, HTML, CSS, JavaScript, SQL
+Frameworks:  ASP.NET MVC, Entity Framework, WPF
+Tools:   Git, Postman, Google Tag Manager, Google Analytics, Visual studio, Postman,Soap UI
+CMS Platforms:   WordPress, Shopify, Wix, Magento
+APIs:  RESTful, Web API, JSON
+Databases:  SQL Server, MySQL, SQLite
+Version Control:  Git, GitHub
 
 📫 How to Reach Me:
 
