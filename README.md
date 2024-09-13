@@ -18,7 +18,7 @@ I’m a Junior Developer skilled in C#, HTML, CSS, JavaScript, Git, and SQL, wit
 ### 🛠️ Technologies & Skills:
 - **Languages**:  C#, HTML, CSS, JavaScript, SQL
 - **Frameworks**:  ASP.NET MVC, Entity Framework, WPF
-- **Tools**:  Git, Postman, Google Tag Manager, Google Analytics, Visual Studio, SoapUI
+- **Tools**:  Google Tag Manager, Google Analytics, Visual Studio, SoapUI, Git, Postman
 - **CMS Platforms**:  WordPress, Shopify, Wix, Magento
 - **APIs**:  RESTful, Web API, JSON
 - **Databases**:  SQL Server, MySQL, SQLite
