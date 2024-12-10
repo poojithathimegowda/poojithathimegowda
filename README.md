@@ -30,6 +30,4 @@ My experience in platforms like **WordPress**, **Shopify**, and **Wix**, coupled
 - **LinkedIn:** [Poojitha Thimegowda](https://www.linkedin.com/in/poojithathimegowda)  
 - **GitHub:** [poojithathimegowda](https://github.com/poojithathimegowda)  
 
----
 
-Let me know if you want any further customization! 🚀
